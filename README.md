@@ -1,2 +1,5 @@
 # demo
-first
+making first repository
+Author - Tanishka Saxena
+
+
